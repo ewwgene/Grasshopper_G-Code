@@ -1,0 +1,9 @@
+{
+    "date": ["2018.04", "2018.06"],
+    "medium": ["ART", "PATTERN"],
+    "material": ["SOLID_PINE_WOOD", "PLASTER"],
+    "hardware": ["CNC_MILLING", "SCAN", "PLASTER"],
+    "software": ["STUDIO_ARTIST", "RHINOCEROS_3D_+_GRASSHOPPER", "CIMCO_EDIT", "INKSCAPE"],
+    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "making": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+}
