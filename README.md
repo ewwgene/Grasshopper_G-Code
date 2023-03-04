@@ -14,7 +14,7 @@ _`RHINOCEROS_3D`_ _`GRASSHOPPER`_ _`CIMCO_EDIT`_ _`INKSCAPE`_  _**`CNC_MILLING`*
 
 Импорт изображения в _`GRASSHOPPER`_, нахождение на изображении зон с максимальной контрасностью, котоорые могут означать границы предметов, и создание вогруг этих зон _Сил_ отталкивания, притягивания или закручивания. Сгенерированные _Силы_ используются для прокладки пути движения инструмента станка с ЧПУ, в моем случае - это фрезер. Траектория движение фрезы в горизонтальной плоскости _XY_ стремиться _прилипнуть_ к границам предметов на фотографии, а глубина _Z_ зависит от яркости участка - чем место на фотографии темнее - тем глубже в заготовку погружается инструмент. Траектория пути движения инструмента в _`GRASSHOPPER`_ представляет собой простые линии и кривые, которые преобразуются в _G-Code_ с помощью набора алгоритмов _GRUNBLAU 3 Axis G-CODE Generator by [Brian Oltrogge](https://www.grunblau.com/contact)_ &#129309;
 
-<a id="311" href="https://ewwgene.github.io/Grasshopper_G-Code/Carousel/#311"><img src="https://ewwgene.github.io/Grasshopper_G-Code/311.jpg" height="66"></a> <a id="313" href="https://ewwgene.github.io/Grasshopper_G-Code/Carousel/#313"><img src="https://ewwgene.github.io/Grasshopper_G-Code/313.jpg" height="66"></a> 
+<a id="301" href="https://ewwgene.github.io/Grasshopper_G-Code/Carousel/#301"><img src="https://ewwgene.github.io/Grasshopper_G-Code/301.jpg" height="66"></a> <a id="303" href="https://ewwgene.github.io/Grasshopper_G-Code/Carousel/#303"><img src="https://ewwgene.github.io/Grasshopper_G-Code/303.jpg" height="66"></a> <a id="305" href="https://ewwgene.github.io/Grasshopper_G-Code/Carousel/#305"><img src="https://ewwgene.github.io/Grasshopper_G-Code/305.jpg" height="66"></a> 
 
 _`PROGRAMMING`_ _`ALGORITHM`_ 
 
